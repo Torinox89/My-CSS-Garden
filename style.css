@@ -1,0 +1,131 @@
+
+  body 
+  {
+  background-color:#9ea09f ;
+    
+  }
+  
+  body {
+   color: lightskyblue;
+    }
+  
+    body {
+        font-family: sans-serif;
+        color: rgb(19, 5, 27)
+        }
+    nav{
+            background-color: #62ada7;
+        }
+    aside {
+            background-color: #20bb6e;
+          }
+          a{
+           color: rgb(80, 43, 80)
+            }
+
+          a{
+           text-decoration: none;
+             }
+
+          a {
+            color: rgb(17, 9, 17)
+              } 
+          a:visited 
+          {
+                color: rgb(12, 80, 226);
+          }
+         a:hover{
+            color:#c2baa9
+          }
+        a:hover 
+          {
+            background-color: yellow;
+          }
+       section  {
+      border : 3px solid gold;
+       } 
+      h3
+      {
+        box-shadow: 4px 4px 8px rgb(206, 207, 219); 
+      }
+    h1 {
+        font-size: 2.3em;
+    }
+     p {
+        font-size: 1.3em;
+     }
+
+     span {
+        font-weight: bold;
+     }
+
+     main {
+         background-color: rgb(133, 153, 216);
+       }
+    main {
+        width: 90%  
+    }
+
+    main {
+        margin:auto
+    }
+    p{text-align: justify
+    }
+
+h3 {
+  text-align: center;
+   }
+li {
+    list-style: no
+  }
+
+h3 {
+  color: rgb(187, 243, 208)
+  }
+
+  
+  
+  h3 {
+    color rgb(15, 20, 17)
+    }
+
+.introduction {
+  text-shadow: 3px 3px rgb(206, 207, 219); 
+  color: white
+    }
+ .summary{
+  text-shadow: 3px 3px rgb(206, 207, 219); 
+  color: white
+   }
+
+
+.features {
+ text-shadow: 3px 3px rgb(206, 207, 219); 
+ color: white
+   }
+
+  a[visited]{
+    color: rgb(149, 209, 172);
+    }
+   a[target hover ]{
+  color: red   
+   } 
+  
+    main {
+      size: 90%
+    }
+    main {
+      margin:auto 
+    }
+    p{
+      text-align: typy=justify;
+    }
+  
+    p{
+      text-align:center;
+    }
+  
+  li{
+   list-style: none;
+  }
+    
